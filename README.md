@@ -2,6 +2,8 @@
 ![nxg Banner Image](./banner.png)
 
 
+
+
 NXG <br>19 year old dev <br>I Code websites and i love Cybersec.<br><br><br>HUNTING BUGS ON HACKERONE<br><br>
 
 
