@@ -1,5 +1,8 @@
 # 💫 About Me:
-![nxg Banner Image](./banner.png)
+
+<p align="center">
+  <img src="./assets/cyber.gif" width="700"/>
+</p>
 
 
 
